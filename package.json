@@ -1,5 +1,5 @@
 {
-  "name": "angular-laravel-echo",
+  "name": "angular-laravel-echo-clonix",
   "version": "2.1.0",
   "description": "A Angular service for Laravel Echo",
   "main": "./bundles/angular-laravel-echo.umd.js",
@@ -18,11 +18,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chancezeus/angular-laravel-echo.git"
+    "url": "git+https://github.com/clonixdev/angular-laravel-echo.git"
   },
-  "homepage": "https://github.com/chancezeus/angular-laravel-echo",
+  "homepage": "https://github.com/clonixdev/angular-laravel-echo",
   "bugs": {
-    "url": "https://github.com/chancezeus/angular-laravel-echo/issues"
+    "url": "https://github.com/clonixdev/angular-laravel-echo/issues"
   },
   "engines": {
     "node": ">= 6.9.0",
